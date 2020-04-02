@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\matri\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\matri\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\matri\source\repos\SwedbankPayPaymentAPI\SwedbankPayPaymentAPI" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="CardPayments.cs" t="Include" />
+      <e p="Classes" t="Include">
+        <e p="Address.cs" t="Include" />
+        <e p="Card" t="Include">
+          <e p="AccountInfo.cs" t="Include" />
+          <e p="CardHolder.cs" t="Include" />
+          <e p="CardPayment.cs" t="Include" />
+          <e p="CreditCard.cs" t="Include" />
+          <e p="CreditCardPaymentResponse.cs" t="Include" />
+          <e p="Operation.cs" t="Include" />
+          <e p="PickUpAddress.cs" t="Include" />
+          <e p="Purchase.cs" t="Include" />
+          <e p="PurchaseResponse.cs" t="Include" />
+          <e p="RiskIndicator.cs" t="Include" />
+        </e>
+        <e p="Invoice" t="Include">
+          <e p="FinancingConsumer.cs" t="Include" />
+          <e p="Invoice.cs" t="Include" />
+          <e p="InvoicePayment.cs" t="Include" />
+        </e>
+        <e p="PayeeInfo.cs" t="Include" />
+        <e p="Payment.cs" t="Include" />
+        <e p="Price.cs" t="Include" />
+        <e p="Url.cs" t="Include" />
+        <e p="Urls.cs" t="Include" />
+      </e>
+      <e p="Enums" t="Include" />
+      <e p="InvoicePayments.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netstandard2.0" t="Include">
+            <e p="SwedbankPayPaymentAPI.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Static" t="Include">
+        <e p="InvoiceType.cs" t="Include" />
+      </e>
+      <e p="SwedbankPayPaymentAPI.csproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>

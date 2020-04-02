@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="039510d6-3960-494b-bc81-1183d5f6e950" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classes/Card/CardPayment.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+              <folding>
+                <marker date="1584452108101" expanded="true" signature="6:153" ph="..." />
+                <marker date="1584452108101" expanded="true" signature="199:757" ph="{...}" />
+                <marker date="1584452108101" expanded="true" signature="240:755" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classes/Card/CreditCard.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="59">
+              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="45" />
+              <folding>
+                <marker date="1584450629320" expanded="true" signature="6:153" ph="..." />
+                <marker date="1584450629320" expanded="true" signature="199:1004" ph="{...}" />
+                <marker date="1584450629320" expanded="true" signature="229:992" ph="{...}" />
+                <marker date="1584450629320" expanded="true" signature="774:986" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classes/Payment.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="43">
+              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="32" />
+              <folding>
+                <marker date="1584452321259" expanded="true" signature="6:56" ph="..." />
+                <marker date="1584452321259" expanded="true" signature="97:1151" ph="{...}" />
+                <marker date="1584452321259" expanded="true" signature="124:1149" ph="{...}" />
+                <marker date="1584452321259" expanded="true" signature="836:906" ph="/// nb-NO, sv-SE or en-US ... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classes/Urls.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+              <folding>
+                <marker date="1584354724702" expanded="true" signature="6:75" ph="..." />
+                <marker date="1584354724702" expanded="true" signature="116:584" ph="{...}" />
+                <marker date="1584354724702" expanded="true" signature="140:582" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classes/Card/PurchaseResponse.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+              <folding>
+                <marker date="1584523589437" expanded="true" signature="44:103" ph="{...}" />
+                <marker date="1584523589437" expanded="true" signature="80:101" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Classes/Card/CreditCardPaymentResponse.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="65" column="8" lean-forward="true" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="8" />
+              <folding>
+                <marker date="1584615090169" expanded="true" signature="6:123" ph="..." />
+                <marker date="1584615090169" expanded="true" signature="169:2851" ph="{...}" />
+                <marker date="1584615090169" expanded="true" signature="214:2849" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classes/Card/Operation.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+              <folding>
+                <marker date="1584615065157" expanded="true" signature="68:418" ph="{...}" />
+                <marker date="1584615065157" expanded="true" signature="97:416" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classes/Card/Purchase.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="7" selection-end-column="48" />
+              <folding>
+                <marker date="1584450725452" expanded="true" signature="68:383" ph="{...}" />
+                <marker date="1584450725452" expanded="true" signature="96:381" ph="{...}" />
+                <marker date="1584450725452" expanded="true" signature="312:375" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classes/Url.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="4" column="20" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="20" />
+              <folding>
+                <marker date="1584527373489" expanded="true" signature="63:168" ph="{...}" />
+                <marker date="1584527373489" expanded="true" signature="86:166" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classes/Card/RiskIndicator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="79" column="19" lean-forward="true" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="19" />
+              <folding>
+                <marker date="1584527389725" expanded="true" signature="6:67" ph="..." />
+                <marker date="1584527389725" expanded="true" signature="113:3456" ph="{...}" />
+                <marker date="1584527389725" expanded="true" signature="146:3454" ph="{...}" />
+                <marker date="1584527389725" expanded="true" signature="161:361" ph="/// Optional (increased chance for frictionless flow if set). ... " />
+                <marker date="1584527389725" expanded="true" signature="483:798" ph="/// Optional (increased chance for frictionless flow if set). ... " />
+                <marker date="1584527389725" expanded="true" signature="932:1155" ph="/// Optional (increased chance for frictionless flow if set). ... " />
+                <marker date="1584527389725" expanded="true" signature="1261:1564" ph="/// Optional (increased chance for frictionless flow if set). ... " />
+                <marker date="1584527389725" expanded="true" signature="1696:2417" ph="/// Optional (increased chance for frictionless flow if set). ... " />
+                <marker date="1584527389725" expanded="true" signature="2525:2699" ph="/// Optional (increased chance for frictionless flow if set). ... " />
+                <marker date="1584527389725" expanded="true" signature="2811:3128" ph="/// &#9;Optional (increased chance for frictionless flow if set). ... " />
+                <marker date="1584527389725" expanded="true" signature="3258:3351" ph="/// If shipIndicator set to 4, then prefil this. ... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Classes/Card/PurchaseResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Classes/Card/CreditCardPaymentResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Classes/Url.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Classes/Card/Operation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Classes/Card/CardHolder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Classes/Address.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Classes/Card/AccountInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Classes/Card/CreditCard.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Classes/Card/Purchase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CardPayments.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Classes/Invoice/Invoice.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Static/InvoiceType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Classes/Payment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/InvoicePayments.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Classes/Card/CardPayment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Classes/Invoice/InvoicePayment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Classes/Card/RiskIndicator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Classes/Invoice/FinancingConsumer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Classes/Card/PickUpAddress.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Classes/Price.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Classes/Urls.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Classes/PayeeInfo.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CardPayments.cs" />
+        <option value="$PROJECT_DIR$/InvoicePayments.cs" />
+        <option value="$PROJECT_DIR$/Classes/InvoicePayments.cs" />
+        <option value="$PROJECT_DIR$/Classes/FinanceingConsumer.cs" />
+        <option value="$PROJECT_DIR$/Classes/InvoicePayment.cs" />
+        <option value="$PROJECT_DIR$/Classes/FinancingConsumer.cs" />
+        <option value="$PROJECT_DIR$/Classes/Invoice.cs" />
+        <option value="$PROJECT_DIR$/Enums/InvoiceType.cs" />
+        <option value="$PROJECT_DIR$/Classes/Invoice/Invoice.cs" />
+        <option value="$PROJECT_DIR$/Classes/Invoice/FinancingConsumer.cs" />
+        <option value="$PROJECT_DIR$/Classes/Price.cs" />
+        <option value="$PROJECT_DIR$/Classes/Urls.cs" />
+        <option value="$PROJECT_DIR$/Static/InvoiceType.cs" />
+        <option value="$PROJECT_DIR$/Classes/Invoice/InvoicePayment.cs" />
+        <option value="$PROJECT_DIR$/Classes/Card/PickUpAddress.cs" />
+        <option value="$PROJECT_DIR$/Classes/Card/CreditCard.cs" />
+        <option value="$PROJECT_DIR$/Classes/Card/Purchase.cs" />
+        <option value="$PROJECT_DIR$/Classes/PayeeInfo.cs" />
+        <option value="$PROJECT_DIR$/Classes/Address.cs" />
+        <option value="$PROJECT_DIR$/Classes/Card/AccountInfo.cs" />
+        <option value="$PROJECT_DIR$/Classes/Card/CardHolder.cs" />
+        <option value="$PROJECT_DIR$/Classes/Card/CardPayment.cs" />
+        <option value="$PROJECT_DIR$/Classes/Payment.cs" />
+        <option value="$PROJECT_DIR$/Classes/Card/PurchaseResponse.cs" />
+        <option value="$PROJECT_DIR$/Classes/Card/Url.cs" />
+        <option value="$PROJECT_DIR$/Classes/RiskIndicator.cs" />
+        <option value="$PROJECT_DIR$/Classes/Url.cs" />
+        <option value="$PROJECT_DIR$/Classes/Card/RiskIndicator.cs" />
+        <option value="$PROJECT_DIR$/Classes/Card/Operations.cs" />
+        <option value="$PROJECT_DIR$/Classes/Card/Operation.cs" />
+        <option value="$PROJECT_DIR$/Classes/Card/CreditCardPaymentResponse.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1279" />
+    <option name="y" value="158" />
+    <option name="width" value="1936" />
+    <option name="height" value="1176" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SwedbankPayPaymentAPI" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SwedbankPayPaymentAPI" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Classes" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SwedbankPayPaymentAPI" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Classes" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Card" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SwedbankPayPaymentAPI" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Classes" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Invoice" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SwedbankPayPaymentAPI" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Static" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="039510d6-3960-494b-bc81-1183d5f6e950" name="Default Changelist" comment="" />
+      <created>1584105619837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584105619837</updated>
+      <workItem from="1584105623571" duration="1842000" />
+      <workItem from="1584352395953" duration="16083000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17925000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="3456" height="1416" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25265017" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Azure Explorer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32957748" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Azure Activity Log" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Build" order="16" visible="true" weight="0.3315343" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CardPayments.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding>
+            <marker date="1584353100248" expanded="true" signature="46:156" ph="{...}" />
+            <marker date="1584353100248" expanded="true" signature="78:154" ph="{...}" />
+            <marker date="1584353100248" expanded="true" signature="115:148" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InvoicePayments.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding>
+            <marker date="1584353801807" expanded="true" signature="46:180" ph="{...}" />
+            <marker date="1584353801807" expanded="true" signature="81:178" ph="{...}" />
+            <marker date="1584353801807" expanded="true" signature="121:154" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Price.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <marker date="1584354488731" expanded="true" signature="63:346" ph="{...}" />
+            <marker date="1584354488731" expanded="true" signature="88:344" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Invoice/Invoice.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="37" />
+          <folding>
+            <marker date="1584354291538" expanded="true" signature="71:185" ph="{...}" />
+            <marker date="1584354291538" expanded="true" signature="98:183" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Static/InvoiceType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="70" selection-start-line="6" selection-start-column="70" selection-end-line="6" selection-end-column="70" />
+          <folding>
+            <marker date="1584356621171" expanded="true" signature="38:300" ph="{...}" />
+            <marker date="1584356621171" expanded="true" signature="69:298" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Card/PickUpAddress.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding>
+            <marker date="1584446086827" expanded="true" signature="71:643" ph="{...}" />
+            <marker date="1584446086827" expanded="true" signature="104:641" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Invoice/FinancingConsumer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <marker date="1584354316535" expanded="true" signature="71:287" ph="{...}" />
+            <marker date="1584354316535" expanded="true" signature="108:285" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Invoice/InvoicePayment.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+          <folding>
+            <marker date="1584443169846" expanded="true" signature="6:56" ph="..." />
+            <marker date="1584443169846" expanded="true" signature="105:172" ph="{...}" />
+            <marker date="1584443169846" expanded="true" signature="149:170" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/PayeeInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <marker date="1584451033156" expanded="true" signature="63:530" ph="{...}" />
+            <marker date="1584451033156" expanded="true" signature="92:528" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Address.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <marker date="1584451128959" expanded="true" signature="63:905" ph="{...}" />
+            <marker date="1584451128959" expanded="true" signature="90:903" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Card/AccountInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="784">
+          <caret line="79" column="134" selection-start-line="79" selection-start-column="134" selection-end-line="79" selection-end-column="134" />
+          <folding>
+            <marker date="1584451882454" expanded="true" signature="68:3553" ph="{...}" />
+            <marker date="1584451882454" expanded="true" signature="99:3551" ph="{...}" />
+            <marker date="1584451882454" expanded="true" signature="114:533" ph="/// Optional (increased chance for frictionless flow if set). ... " />
+            <marker date="1584451882454" expanded="true" signature="653:1038" ph="/// Optional (increased chance for frictionless flow if set). ... " />
+            <marker date="1584451882454" expanded="true" signature="1164:1582" ph="/// Optional (increased chance for frictionless flow if set). ... " />
+            <marker date="1584451882454" expanded="true" signature="1714:2073" ph="/// Optional (increased chance for frictionless flow if set). ... " />
+            <marker date="1584451882454" expanded="true" signature="2213:2569" ph="/// Optional (increased chance for frictionless flow if set). ... " />
+            <marker date="1584451882454" expanded="true" signature="2693:3054" ph="/// Optional (increased chance for frictionless flow if set). ... " />
+            <marker date="1584451882454" expanded="true" signature="3186:3439" ph="/// Optional (increased chance for frictionless flow if set) ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Card/CardHolder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="17" column="79" selection-start-line="17" selection-start-column="79" selection-end-line="17" selection-end-column="79" />
+          <folding>
+            <marker date="1584452021492" expanded="true" signature="68:1194" ph="{...}" />
+            <marker date="1584452021492" expanded="true" signature="98:1192" ph="{...}" />
+            <marker date="1584452021492" expanded="true" signature="376:589" ph="/// Optional (increased chance for frictionless flow if set) ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Card/PurchaseResponse.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <marker date="1584523589437" expanded="true" signature="44:103" ph="{...}" />
+            <marker date="1584523589437" expanded="true" signature="80:101" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Payment.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="32" />
+          <folding>
+            <marker date="1584452321259" expanded="true" signature="6:56" ph="..." />
+            <marker date="1584452321259" expanded="true" signature="97:1151" ph="{...}" />
+            <marker date="1584452321259" expanded="true" signature="124:1149" ph="{...}" />
+            <marker date="1584452321259" expanded="true" signature="836:906" ph="/// nb-NO, sv-SE or en-US ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Urls.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding>
+            <marker date="1584354724702" expanded="true" signature="6:75" ph="..." />
+            <marker date="1584354724702" expanded="true" signature="116:584" ph="{...}" />
+            <marker date="1584354724702" expanded="true" signature="140:582" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Card/CreditCard.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="45" />
+          <folding>
+            <marker date="1584450629320" expanded="true" signature="6:153" ph="..." />
+            <marker date="1584450629320" expanded="true" signature="199:1004" ph="{...}" />
+            <marker date="1584450629320" expanded="true" signature="229:992" ph="{...}" />
+            <marker date="1584450629320" expanded="true" signature="774:986" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Card/CardPayment.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+          <folding>
+            <marker date="1584452108101" expanded="true" signature="6:153" ph="..." />
+            <marker date="1584452108101" expanded="true" signature="199:757" ph="{...}" />
+            <marker date="1584452108101" expanded="true" signature="240:755" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Url.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="20" />
+          <folding>
+            <marker date="1584527373489" expanded="true" signature="63:168" ph="{...}" />
+            <marker date="1584527373489" expanded="true" signature="86:166" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Card/RiskIndicator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="79" column="19" lean-forward="true" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="19" />
+          <folding>
+            <marker date="1584527389725" expanded="true" signature="6:67" ph="..." />
+            <marker date="1584527389725" expanded="true" signature="113:3456" ph="{...}" />
+            <marker date="1584527389725" expanded="true" signature="146:3454" ph="{...}" />
+            <marker date="1584527389725" expanded="true" signature="161:361" ph="/// Optional (increased chance for frictionless flow if set). ... " />
+            <marker date="1584527389725" expanded="true" signature="483:798" ph="/// Optional (increased chance for frictionless flow if set). ... " />
+            <marker date="1584527389725" expanded="true" signature="932:1155" ph="/// Optional (increased chance for frictionless flow if set). ... " />
+            <marker date="1584527389725" expanded="true" signature="1261:1564" ph="/// Optional (increased chance for frictionless flow if set). ... " />
+            <marker date="1584527389725" expanded="true" signature="1696:2417" ph="/// Optional (increased chance for frictionless flow if set). ... " />
+            <marker date="1584527389725" expanded="true" signature="2525:2699" ph="/// Optional (increased chance for frictionless flow if set). ... " />
+            <marker date="1584527389725" expanded="true" signature="2811:3128" ph="/// &#9;Optional (increased chance for frictionless flow if set). ... " />
+            <marker date="1584527389725" expanded="true" signature="3258:3351" ph="/// If shipIndicator set to 4, then prefil this. ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Card/Purchase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="7" selection-end-column="48" />
+          <folding>
+            <marker date="1584450725452" expanded="true" signature="68:383" ph="{...}" />
+            <marker date="1584450725452" expanded="true" signature="96:381" ph="{...}" />
+            <marker date="1584450725452" expanded="true" signature="312:375" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Card/Operation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding>
+            <marker date="1584615065157" expanded="true" signature="68:418" ph="{...}" />
+            <marker date="1584615065157" expanded="true" signature="97:416" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Card/CreditCardPaymentResponse.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="65" column="8" lean-forward="true" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="8" />
+          <folding>
+            <marker date="1584615090169" expanded="true" signature="6:123" ph="..." />
+            <marker date="1584615090169" expanded="true" signature="169:2851" ph="{...}" />
+            <marker date="1584615090169" expanded="true" signature="214:2849" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

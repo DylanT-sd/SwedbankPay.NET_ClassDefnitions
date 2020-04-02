@@ -1,0 +1,8 @@
+C:\Users\matri\source\repos\SwedbankPayPaymentAPI\SwedbankPayPaymentAPI\bin\Debug\netstandard2.0\SwedbankPayPaymentAPI.deps.json
+C:\Users\matri\source\repos\SwedbankPayPaymentAPI\SwedbankPayPaymentAPI\bin\Debug\netstandard2.0\SwedbankPayPaymentAPI.dll
+C:\Users\matri\source\repos\SwedbankPayPaymentAPI\SwedbankPayPaymentAPI\bin\Debug\netstandard2.0\SwedbankPayPaymentAPI.pdb
+C:\Users\matri\source\repos\SwedbankPayPaymentAPI\SwedbankPayPaymentAPI\obj\Debug\netstandard2.0\SwedbankPayPaymentAPI.csprojAssemblyReference.cache
+C:\Users\matri\source\repos\SwedbankPayPaymentAPI\SwedbankPayPaymentAPI\obj\Debug\netstandard2.0\SwedbankPayPaymentAPI.AssemblyInfoInputs.cache
+C:\Users\matri\source\repos\SwedbankPayPaymentAPI\SwedbankPayPaymentAPI\obj\Debug\netstandard2.0\SwedbankPayPaymentAPI.AssemblyInfo.cs
+C:\Users\matri\source\repos\SwedbankPayPaymentAPI\SwedbankPayPaymentAPI\obj\Debug\netstandard2.0\SwedbankPayPaymentAPI.dll
+C:\Users\matri\source\repos\SwedbankPayPaymentAPI\SwedbankPayPaymentAPI\obj\Debug\netstandard2.0\SwedbankPayPaymentAPI.pdb
